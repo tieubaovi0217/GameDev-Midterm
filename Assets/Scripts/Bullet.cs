@@ -5,10 +5,12 @@ using UnityEngine;
 public class Bullet : MonoBehaviour
 {
     public int speed;
+    private Animator anim;
+
     // Start is called before the first frame update
     void Start()
     {
-        transform.Rotate(0, 0, -90);
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -16,16 +18,12 @@ public class Bullet : MonoBehaviour
     {
         transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.tag == "Border")
+    {   
+        if (collision.tag == "Obstacle")
         {
             Destroy(this.gameObject);
-        }
-        else if (collision.tag == "Obstacle")
-        {
-            Destroy(this.gameObject);
-            Destroy(collision.gameObject);
         }
     }
 }

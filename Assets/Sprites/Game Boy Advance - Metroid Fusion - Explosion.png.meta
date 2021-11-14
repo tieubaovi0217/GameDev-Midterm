@@ -1,0 +1,3180 @@
+fileFormatVersion: 2
+guid: 873d46c8086170a44a085afe84080043
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -748616067106605913
+    second: Game Boy Advance - Metroid Fusion - Explosion_0
+  - first:
+      213: 6028534007381675152
+    second: Game Boy Advance - Metroid Fusion - Explosion_1
+  - first:
+      213: 1826189462214285493
+    second: Game Boy Advance - Metroid Fusion - Explosion_2
+  - first:
+      213: 8988183594706878107
+    second: Game Boy Advance - Metroid Fusion - Explosion_3
+  - first:
+      213: -8213699931487538771
+    second: Game Boy Advance - Metroid Fusion - Explosion_4
+  - first:
+      213: 6544504045688874118
+    second: Game Boy Advance - Metroid Fusion - Explosion_5
+  - first:
+      213: -5216779573756585781
+    second: Game Boy Advance - Metroid Fusion - Explosion_6
+  - first:
+      213: 9179120263510803175
+    second: Game Boy Advance - Metroid Fusion - Explosion_7
+  - first:
+      213: 741423299089727574
+    second: Game Boy Advance - Metroid Fusion - Explosion_8
+  - first:
+      213: -3271181617002178294
+    second: Game Boy Advance - Metroid Fusion - Explosion_9
+  - first:
+      213: -306416705350580323
+    second: Game Boy Advance - Metroid Fusion - Explosion_10
+  - first:
+      213: -9069517942478444255
+    second: Game Boy Advance - Metroid Fusion - Explosion_11
+  - first:
+      213: -3898429967990995874
+    second: Game Boy Advance - Metroid Fusion - Explosion_12
+  - first:
+      213: -7841865480831226135
+    second: Game Boy Advance - Metroid Fusion - Explosion_13
+  - first:
+      213: 7172279776885381861
+    second: Game Boy Advance - Metroid Fusion - Explosion_14
+  - first:
+      213: -409441091214690705
+    second: Game Boy Advance - Metroid Fusion - Explosion_15
+  - first:
+      213: -6311615034094215448
+    second: Game Boy Advance - Metroid Fusion - Explosion_16
+  - first:
+      213: 8060433706318911016
+    second: Game Boy Advance - Metroid Fusion - Explosion_17
+  - first:
+      213: -2316020519467054954
+    second: Game Boy Advance - Metroid Fusion - Explosion_18
+  - first:
+      213: 6802600676036609877
+    second: Game Boy Advance - Metroid Fusion - Explosion_19
+  - first:
+      213: 8488855032292325956
+    second: Game Boy Advance - Metroid Fusion - Explosion_20
+  - first:
+      213: -7707250064095021654
+    second: Game Boy Advance - Metroid Fusion - Explosion_21
+  - first:
+      213: -5185636957013392127
+    second: Game Boy Advance - Metroid Fusion - Explosion_22
+  - first:
+      213: -7286702968675086224
+    second: Game Boy Advance - Metroid Fusion - Explosion_23
+  - first:
+      213: 8484703968715361581
+    second: Game Boy Advance - Metroid Fusion - Explosion_24
+  - first:
+      213: 249278117734869914
+    second: Game Boy Advance - Metroid Fusion - Explosion_25
+  - first:
+      213: 8582713081723303386
+    second: Game Boy Advance - Metroid Fusion - Explosion_26
+  - first:
+      213: 8493075820598400398
+    second: Game Boy Advance - Metroid Fusion - Explosion_27
+  - first:
+      213: -2207853353983766401
+    second: Game Boy Advance - Metroid Fusion - Explosion_28
+  - first:
+      213: 6108350416675210671
+    second: Game Boy Advance - Metroid Fusion - Explosion_29
+  - first:
+      213: 7495200793521523205
+    second: Game Boy Advance - Metroid Fusion - Explosion_30
+  - first:
+      213: -2004613353195640925
+    second: Game Boy Advance - Metroid Fusion - Explosion_31
+  - first:
+      213: -422844411427712253
+    second: Game Boy Advance - Metroid Fusion - Explosion_32
+  - first:
+      213: 4810271483773351092
+    second: Game Boy Advance - Metroid Fusion - Explosion_33
+  - first:
+      213: -8461021821408497535
+    second: Game Boy Advance - Metroid Fusion - Explosion_34
+  - first:
+      213: -746949690643078151
+    second: Game Boy Advance - Metroid Fusion - Explosion_35
+  - first:
+      213: -2012463837752369559
+    second: Game Boy Advance - Metroid Fusion - Explosion_36
+  - first:
+      213: -5342169615952632848
+    second: Game Boy Advance - Metroid Fusion - Explosion_37
+  - first:
+      213: -1823110094977268718
+    second: Game Boy Advance - Metroid Fusion - Explosion_38
+  - first:
+      213: 4482125550605823182
+    second: Game Boy Advance - Metroid Fusion - Explosion_39
+  - first:
+      213: -4607823252084991678
+    second: Game Boy Advance - Metroid Fusion - Explosion_40
+  - first:
+      213: -6610267614174288345
+    second: Game Boy Advance - Metroid Fusion - Explosion_41
+  - first:
+      213: 3584766150635194512
+    second: Game Boy Advance - Metroid Fusion - Explosion_42
+  - first:
+      213: -2835286395374530965
+    second: Game Boy Advance - Metroid Fusion - Explosion_43
+  - first:
+      213: 3279966993767948214
+    second: Game Boy Advance - Metroid Fusion - Explosion_44
+  - first:
+      213: -8779741352934826729
+    second: Game Boy Advance - Metroid Fusion - Explosion_45
+  - first:
+      213: -6475131966048429979
+    second: Game Boy Advance - Metroid Fusion - Explosion_46
+  - first:
+      213: -5054196878496804329
+    second: Game Boy Advance - Metroid Fusion - Explosion_47
+  - first:
+      213: -5186804927245217976
+    second: Game Boy Advance - Metroid Fusion - Explosion_48
+  - first:
+      213: -23012791250442120
+    second: Game Boy Advance - Metroid Fusion - Explosion_49
+  - first:
+      213: -8755744356748333382
+    second: Game Boy Advance - Metroid Fusion - Explosion_50
+  - first:
+      213: 5298943058052196459
+    second: Game Boy Advance - Metroid Fusion - Explosion_51
+  - first:
+      213: 9002958652894206598
+    second: Game Boy Advance - Metroid Fusion - Explosion_52
+  - first:
+      213: -2593131545848080481
+    second: Game Boy Advance - Metroid Fusion - Explosion_53
+  - first:
+      213: 8379447007608229426
+    second: Game Boy Advance - Metroid Fusion - Explosion_54
+  - first:
+      213: -5703965436788518200
+    second: Game Boy Advance - Metroid Fusion - Explosion_55
+  - first:
+      213: -5818985237949382875
+    second: Game Boy Advance - Metroid Fusion - Explosion_56
+  - first:
+      213: 8974623657648838646
+    second: Game Boy Advance - Metroid Fusion - Explosion_57
+  - first:
+      213: 3226393444008762957
+    second: Game Boy Advance - Metroid Fusion - Explosion_58
+  - first:
+      213: 6401531940503946249
+    second: Game Boy Advance - Metroid Fusion - Explosion_59
+  - first:
+      213: 740165275707359369
+    second: Game Boy Advance - Metroid Fusion - Explosion_60
+  - first:
+      213: -3723686632977814237
+    second: Game Boy Advance - Metroid Fusion - Explosion_61
+  - first:
+      213: -5124364088565805827
+    second: Game Boy Advance - Metroid Fusion - Explosion_62
+  - first:
+      213: -1936115878276516552
+    second: Game Boy Advance - Metroid Fusion - Explosion_63
+  - first:
+      213: -6594733541135237400
+    second: Game Boy Advance - Metroid Fusion - Explosion_64
+  - first:
+      213: -9091237451305452533
+    second: Game Boy Advance - Metroid Fusion - Explosion_65
+  - first:
+      213: 8325499411035636407
+    second: Game Boy Advance - Metroid Fusion - Explosion_66
+  - first:
+      213: 3499912792731810096
+    second: Game Boy Advance - Metroid Fusion - Explosion_67
+  - first:
+      213: -7548766494237548191
+    second: Game Boy Advance - Metroid Fusion - Explosion_68
+  - first:
+      213: 6390315026817206728
+    second: Game Boy Advance - Metroid Fusion - Explosion_69
+  - first:
+      213: -6779954474024754346
+    second: Game Boy Advance - Metroid Fusion - Explosion_70
+  - first:
+      213: 3462801228223769878
+    second: Game Boy Advance - Metroid Fusion - Explosion_71
+  - first:
+      213: -8614055619401817974
+    second: Game Boy Advance - Metroid Fusion - Explosion_72
+  - first:
+      213: 5089184606879802815
+    second: Game Boy Advance - Metroid Fusion - Explosion_73
+  - first:
+      213: -1538448087402351672
+    second: Game Boy Advance - Metroid Fusion - Explosion_74
+  - first:
+      213: -9050132515647610809
+    second: Game Boy Advance - Metroid Fusion - Explosion_75
+  - first:
+      213: -3470093877758766600
+    second: Game Boy Advance - Metroid Fusion - Explosion_76
+  - first:
+      213: -4270276114760008822
+    second: Game Boy Advance - Metroid Fusion - Explosion_77
+  - first:
+      213: -3687647716038974039
+    second: Game Boy Advance - Metroid Fusion - Explosion_78
+  - first:
+      213: -1755111278087486116
+    second: Game Boy Advance - Metroid Fusion - Explosion_79
+  - first:
+      213: 4078450410505045292
+    second: Game Boy Advance - Metroid Fusion - Explosion_80
+  - first:
+      213: -1242651426152646703
+    second: Game Boy Advance - Metroid Fusion - Explosion_81
+  - first:
+      213: 3652759664785942036
+    second: Game Boy Advance - Metroid Fusion - Explosion_82
+  - first:
+      213: 621379212812086094
+    second: Game Boy Advance - Metroid Fusion - Explosion_83
+  - first:
+      213: -696768349710726355
+    second: Game Boy Advance - Metroid Fusion - Explosion_84
+  - first:
+      213: -4798287108390421937
+    second: Game Boy Advance - Metroid Fusion - Explosion_85
+  - first:
+      213: -6187605258147571339
+    second: Game Boy Advance - Metroid Fusion - Explosion_86
+  - first:
+      213: -4933444552602793752
+    second: Game Boy Advance - Metroid Fusion - Explosion_87
+  - first:
+      213: 6024999089367037419
+    second: Game Boy Advance - Metroid Fusion - Explosion_88
+  - first:
+      213: -7946701870221165112
+    second: Game Boy Advance - Metroid Fusion - Explosion_89
+  - first:
+      213: 1861608523441119882
+    second: Game Boy Advance - Metroid Fusion - Explosion_90
+  - first:
+      213: -3083779150782079799
+    second: Game Boy Advance - Metroid Fusion - Explosion_91
+  - first:
+      213: -3759368675899890291
+    second: Game Boy Advance - Metroid Fusion - Explosion_92
+  - first:
+      213: 6161428457415198619
+    second: Game Boy Advance - Metroid Fusion - Explosion_93
+  - first:
+      213: 6234800742341547221
+    second: Game Boy Advance - Metroid Fusion - Explosion_94
+  - first:
+      213: 8576359619312214071
+    second: Game Boy Advance - Metroid Fusion - Explosion_95
+  - first:
+      213: -5422804009888440112
+    second: Game Boy Advance - Metroid Fusion - Explosion_96
+  - first:
+      213: 4818320347211218744
+    second: Game Boy Advance - Metroid Fusion - Explosion_97
+  - first:
+      213: 5717494382156206002
+    second: Game Boy Advance - Metroid Fusion - Explosion_98
+  - first:
+      213: -7823502464664635929
+    second: Game Boy Advance - Metroid Fusion - Explosion_99
+  - first:
+      213: -3334846458046243456
+    second: Game Boy Advance - Metroid Fusion - Explosion_100
+  - first:
+      213: -4321228132008060181
+    second: Game Boy Advance - Metroid Fusion - Explosion_101
+  - first:
+      213: 2183976745040085763
+    second: Game Boy Advance - Metroid Fusion - Explosion_102
+  - first:
+      213: -6976821654740026074
+    second: Game Boy Advance - Metroid Fusion - Explosion_103
+  - first:
+      213: 7648467677396905121
+    second: Game Boy Advance - Metroid Fusion - Explosion_104
+  - first:
+      213: -4738603223427424242
+    second: Game Boy Advance - Metroid Fusion - Explosion_105
+  - first:
+      213: -8385987633494146986
+    second: Game Boy Advance - Metroid Fusion - Explosion_106
+  - first:
+      213: -60453497507230905
+    second: Game Boy Advance - Metroid Fusion - Explosion_107
+  - first:
+      213: -1586939671151491528
+    second: Game Boy Advance - Metroid Fusion - Explosion_108
+  - first:
+      213: -7899479338515428549
+    second: Game Boy Advance - Metroid Fusion - Explosion_109
+  - first:
+      213: -4685623707504978202
+    second: Game Boy Advance - Metroid Fusion - Explosion_110
+  - first:
+      213: -8294053048475211964
+    second: Game Boy Advance - Metroid Fusion - Explosion_111
+  - first:
+      213: 404006189793338396
+    second: Game Boy Advance - Metroid Fusion - Explosion_112
+  - first:
+      213: -5945838144484167759
+    second: Game Boy Advance - Metroid Fusion - Explosion_113
+  - first:
+      213: -1406273231927579411
+    second: Game Boy Advance - Metroid Fusion - Explosion_114
+  - first:
+      213: 8424369073687338350
+    second: Game Boy Advance - Metroid Fusion - Explosion_115
+  - first:
+      213: -3839018671614815161
+    second: Game Boy Advance - Metroid Fusion - Explosion_116
+  - first:
+      213: 497943726079403349
+    second: Game Boy Advance - Metroid Fusion - Explosion_117
+  - first:
+      213: 65273505829195191
+    second: Game Boy Advance - Metroid Fusion - Explosion_118
+  - first:
+      213: -5781755273237279127
+    second: Game Boy Advance - Metroid Fusion - Explosion_119
+  - first:
+      213: 442176201816901235
+    second: Game Boy Advance - Metroid Fusion - Explosion_120
+  - first:
+      213: -2692337721979131956
+    second: Game Boy Advance - Metroid Fusion - Explosion_121
+  - first:
+      213: 8830577845172139881
+    second: Game Boy Advance - Metroid Fusion - Explosion_122
+  - first:
+      213: 3839992778619689980
+    second: Game Boy Advance - Metroid Fusion - Explosion_123
+  - first:
+      213: 5268380354878237937
+    second: Game Boy Advance - Metroid Fusion - Explosion_124
+  - first:
+      213: -7322779059183874888
+    second: Game Boy Advance - Metroid Fusion - Explosion_125
+  - first:
+      213: -6841385061263464092
+    second: Game Boy Advance - Metroid Fusion - Explosion_126
+  - first:
+      213: -8410243260443465535
+    second: Game Boy Advance - Metroid Fusion - Explosion_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 201
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f5fe37a16c95f0800000000000000
+      internalID: -748616067106605913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cc85a3db7a9a350800000000000000
+      internalID: 6028534007381675152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 203
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b818dbe3ade75910800000000000000
+      internalID: 1826189462214285493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 200
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3f72ab517cbc70800000000000000
+      internalID: 8988183594706878107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f80c2e63130e80800000000000000
+      internalID: -8213699931487538771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 192
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684646a51cfb2da50800000000000000
+      internalID: 6544504045688874118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 204
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc899ba0e964a97b0800000000000000
+      internalID: -5216779573756585781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 205
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c6212f39c26f70800000000000000
+      internalID: 9179120263510803175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 200
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6500172ff801a4a00800000000000000
+      internalID: 741423299089727574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 209
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091cca96ad6a92d0800000000000000
+      internalID: -3271181617002178294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 126
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97455441a36fbbf0800000000000000
+      internalID: -306416705350580323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 162
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296a82db79922280800000000000000
+      internalID: -9069517942478444255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 153
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c820599ef5e9c0800000000000000
+      internalID: -3898429967990995874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 174
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee28a6a4e81c2390800000000000000
+      internalID: -7841865480831226135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 192
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea98fae47e098360800000000000000
+      internalID: 7172279776885381861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 189
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6633b13f7f515af0800000000000000
+      internalID: -409441091214690705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 200
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee9ccd1193a868a0800000000000000
+      internalID: -6311615034094215448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82659b8ffb96cdf60800000000000000
+      internalID: 8060433706318911016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 198
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69886acbb97dbdfd0800000000000000
+      internalID: -2316020519467054954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 195
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578efbe541b76e50800000000000000
+      internalID: 6802600676036609877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a329d0da87ec570800000000000000
+      internalID: 8488855032292325956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 199
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57286c6e85a0590800000000000000
+      internalID: -7707250064095021654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 196
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105441b89aae808b0800000000000000
+      internalID: -5185636957013392127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_23
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 197
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705650b14e60ea90800000000000000
+      internalID: -7286702968675086224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_24
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d40af3e49bfb570800000000000000
+      internalID: 8484703968715361581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 187
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6dd9902d957300800000000000000
+      internalID: 249278117734869914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 191
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5373d131ceb1770800000000000000
+      internalID: 8582713081723303386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_27
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 195
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e851a39e5777dd570800000000000000
+      internalID: 8493075820598400398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_28
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 194
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7094af72112c51e0800000000000000
+      internalID: -2207853353983766401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 194
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5098d275835c450800000000000000
+      internalID: 6108350416675210671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_30
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 188
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a8312196d440860800000000000000
+      internalID: 7495200793521523205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_31
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 184
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e4c2b6ce2e24e0800000000000000
+      internalID: -2004613353195640925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30397958f31c12af0800000000000000
+      internalID: -422844411427712253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47087bd6481c240800000000000000
+      internalID: 4810271483773351092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_34
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 186
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1803e1a5b79649a80800000000000000
+      internalID: -8461021821408497535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_35
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 189
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a120c63d42a5f0800000000000000
+      internalID: -746949690643078151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 154
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e53735dca4214e0800000000000000
+      internalID: -2012463837752369559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_37
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 183
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3224fc90dccd5b0800000000000000
+      internalID: -5342169615952632848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_38
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 189
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2148372270303b6e0800000000000000
+      internalID: -1823110094977268718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_39
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 184
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccef82e075b33e30800000000000000
+      internalID: 4482125550605823182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24950bf5a29bd00c0800000000000000
+      internalID: -4607823252084991678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_41
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266fdaa0ac9344a0800000000000000
+      internalID: -6610267614174288345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_42
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 181
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098847332d5afb130800000000000000
+      internalID: 3584766150635194512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 146
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e043f9b0a07a8d0800000000000000
+      internalID: -2835286395374530965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 161
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5b825a98c48d20800000000000000
+      internalID: 3279966993767948214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_45
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 161
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d138ea1c7182680800000000000000
+      internalID: -8779741352934826729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_46
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56818e998c5b326a0800000000000000
+      internalID: -6475131966048429979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_47
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 171
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7125f40a7b2ebd9b0800000000000000
+      internalID: -5054196878496804329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_48
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8d484664c408b0800000000000000
+      internalID: -5186804927245217976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_49
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 170
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8782a300dfd3eaff0800000000000000
+      internalID: -23012791250442120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_50
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 173
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe62efb5e85d7680800000000000000
+      internalID: -8755744356748333382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_51
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 172
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682934e2a0a98940800000000000000
+      internalID: 5298943058052196459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_52
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad941f13fe0fc70800000000000000
+      internalID: 9002958652894206598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_53
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 173
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f979dd91998530cd0800000000000000
+      internalID: -2593131545848080481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_54
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 170
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec2be38a6c94470800000000000000
+      internalID: 8379447007608229426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_55
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 148
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25d19f7a177d0b0800000000000000
+      internalID: -5703965436788518200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_56
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 165
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff8c2a1cfce3fa0800000000000000
+      internalID: -5818985237949382875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 168
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d9f2caa44c8c70800000000000000
+      internalID: 8974623657648838646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_58
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 165
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9acf3eb376cc20800000000000000
+      internalID: 3226393444008762957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_59
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 157
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9040e04126fc6d850800000000000000
+      internalID: 6401531940503946249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_60
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 166
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980cd9d8568954a00800000000000000
+      internalID: 740165275707359369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_61
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dac7a7cbec25cc0800000000000000
+      internalID: -3723686632977814237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_62
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 164
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4441f20a92e8b0800000000000000
+      internalID: -5124364088565805827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_63
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 116
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835b55fddd88125e0800000000000000
+      internalID: -1936115878276516552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_64
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 162
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeb744e8ccca74a0800000000000000
+      internalID: -6594733541135237400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_65
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 164
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf53a94bf65d180800000000000000
+      internalID: -9091237451305452533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_66
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 158
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c08c9a9d1a8370800000000000000
+      internalID: 8325499411035636407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_67
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 119
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ff934420329030800000000000000
+      internalID: 3499912792731810096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_68
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 123
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161a99a5ed46d3790800000000000000
+      internalID: -7548766494237548191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 151
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9c748d8a5fea850800000000000000
+      internalID: 6390315026817206728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_70
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 155
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532f6ed353c8e1a0800000000000000
+      internalID: -6779954474024754346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_71
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 154
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6010de575e0030800000000000000
+      internalID: 3462801228223769878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_72
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80e81aad0ab47880800000000000000
+      internalID: -8614055619401817974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 156
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5e471bf6a60a640800000000000000
+      internalID: 5089184606879802815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_74
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 156
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f0059d9556aae0800000000000000
+      internalID: -1538448087402351672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_75
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740ac9a3d68776280800000000000000
+      internalID: -9050132515647610809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_76
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 148
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15ee6e000c7dfc0800000000000000
+      internalID: -3470093877758766600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_77
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf4ee9f7eecb4c0800000000000000
+      internalID: -4270276114760008822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_78
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 140
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a567b4b0f7d2dcc0800000000000000
+      internalID: -3687647716038974039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_79
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 142
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c554050779794a7e0800000000000000
+      internalID: -1755111278087486116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_80
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2503303a01999830800000000000000
+      internalID: 4078450410505045292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_81
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f98c9c1731cee0800000000000000
+      internalID: -1242651426152646703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_82
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 131
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e07ddf8531b230800000000000000
+      internalID: 3652759664785942036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_83
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 146
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be9721a159f9800800000000000000
+      internalID: 621379212812086094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_84
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc1c8a0e49456f0800000000000000
+      internalID: -696768349710726355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_85
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 133
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7d0e1c4f096db0800000000000000
+      internalID: -4798287108390421937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_86
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 139
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57956c11dc5312aa0800000000000000
+      internalID: -6187605258147571339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 142
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e846036152e88bb0800000000000000
+      internalID: -4933444552602793752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_88
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 141
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be536cdffb81d9350800000000000000
+      internalID: 6024999089367037419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_89
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 129
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf881a0c4a7b190800000000000000
+      internalID: -7946701870221165112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 131
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a822c8eb613c5d910800000000000000
+      internalID: 1861608523441119882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_91
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 122
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccd0ef63373435d0800000000000000
+      internalID: -3083779150782079799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_92
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85a1457b1a04dbc0800000000000000
+      internalID: -3759368675899890291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_93
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 134
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974731998ac18550800000000000000
+      internalID: 6161428457415198619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_94
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41c94ed36768650800000000000000
+      internalID: 6234800742341547221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_95
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730eb1f52a9550770800000000000000
+      internalID: 8576359619312214071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_96
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 126
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d02908fb745eb4b0800000000000000
+      internalID: -5422804009888440112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_97
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbf85c3dc1ed240800000000000000
+      internalID: 4818320347211218744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_98
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 119
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf46b519de985f40800000000000000
+      internalID: 5717494382156206002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_99
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5754685f55d6390800000000000000
+      internalID: -7823502464664635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_100
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1fafa0de38b1d0800000000000000
+      internalID: -3334846458046243456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_101
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 120
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1c36a8e9e704c0800000000000000
+      internalID: -4321228132008060181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_102
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30304d5474b0f4e10800000000000000
+      internalID: 2183976745040085763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_103
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62db7f77ba95d2f90800000000000000
+      internalID: -6976821654740026074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_104
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acac4b44d0d42a60800000000000000
+      internalID: 7648467677396905121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_105
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 116
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00661879791d3eb0800000000000000
+      internalID: -4738603223427424242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_106
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 120
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65043ce9dacfe9b80800000000000000
+      internalID: -8385987633494146986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_107
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bc6a34dd9392ff0800000000000000
+      internalID: -60453497507230905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_108
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 122
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8364a0de6ce0af9e0800000000000000
+      internalID: -1586939671151491528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_109
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 125
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b004515696f5290800000000000000
+      internalID: -7899479338515428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_110
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 125
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65403401259feb0800000000000000
+      internalID: -4685623707504978202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_111
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447a36932ba95ec80800000000000000
+      internalID: -8294053048475211964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_112
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 116
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e0b53d715b9500800000000000000
+      internalID: 404006189793338396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfad02c5b32c7da0800000000000000
+      internalID: -5945838144484167759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_114
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 114
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece0d142f9eb7ce0800000000000000
+      internalID: -1406273231927579411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_115
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 117
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9bedc90f59e470800000000000000
+      internalID: 8424369073687338350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_116
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 114
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449e40bbd019bac0800000000000000
+      internalID: -3839018671614815161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_117
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 117
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555e81f3e2d09e600800000000000000
+      internalID: 497943726079403349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_118
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 114
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd813068e5e7e000800000000000000
+      internalID: 65273505829195191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_119
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 117
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e4378463413cfa0800000000000000
+      internalID: -5781755273237279127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_120
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 114
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768d6da9ece22600800000000000000
+      internalID: 442176201816901235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_121
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 111
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ac024b15e2aad0800000000000000
+      internalID: -2692337721979131956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_122
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 113
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9677be683c38c8a70800000000000000
+      internalID: 8830577845172139881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb11b546156a4530800000000000000
+      internalID: 3839992778619689980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fce92a050c0d1940800000000000000
+      internalID: 5268380354878237937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_125
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 42
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0da05e33406a90800000000000000
+      internalID: -7322779059183874888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_126
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 42
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4692ab3b8848e01a0800000000000000
+      internalID: -6841385061263464092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Metroid Fusion - Explosion_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1050
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e4a26050d84b80800000000000000
+      internalID: -8410243260443465535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

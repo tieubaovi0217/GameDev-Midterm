@@ -6,10 +6,12 @@ public class Obstacle : MonoBehaviour
 {
     private GameObject player;
     private int health;
+    private Animator anim;
 
     // Start is called before the first frame update
     void Start()
     {
+        anim = GetComponent<Animator>();
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
@@ -21,14 +23,20 @@ public class Obstacle : MonoBehaviour
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.tag == "Border")
+    {   
+        if(collision.tag == "Bullet")
         {
-            Destroy(this.gameObject);
+            anim.Play("ObstacleDie");
+            Destroy(this.gameObject, 0.4f);
+            GetComponent<AudioSource>().Play();
         }
         else if(collision.tag == "Player")
         {
             Destroy(player.gameObject);
+        }
+        else
+        {
+            Destroy(this.gameObject);
         }
     }
 }

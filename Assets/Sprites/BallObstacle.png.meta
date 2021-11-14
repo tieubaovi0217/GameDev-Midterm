@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: f189df15cec89e74f9eae4b0b72a8df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8411212590339132371
+    second: BallObstacle_0
+  - first:
+      213: 1625327243407639171
+    second: BallObstacle_1
+  - first:
+      213: -939287829021746837
+    second: BallObstacle_2
+  - first:
+      213: 5822151034527394649
+    second: BallObstacle_3
+  - first:
+      213: -5836302097957965775
+    second: BallObstacle_4
+  - first:
+      213: 2740772199793826490
+    second: BallObstacle_5
+  - first:
+      213: -1415235927627364867
+    second: BallObstacle_6
+  - first:
+      213: -774187313725199627
+    second: BallObstacle_7
+  - first:
+      213: 7818028489062918805
+    second: BallObstacle_8
+  - first:
+      213: -1079638323794967148
+    second: BallObstacle_9
+  - first:
+      213: -8162507481959414183
+    second: BallObstacle_10
+  - first:
+      213: -8291396189926876852
+    second: BallObstacle_11
+  - first:
+      213: -7561496408700900389
+    second: BallObstacle_12
+  - first:
+      213: -5899085930018530899
+    second: BallObstacle_13
+  - first:
+      213: -1452073471116075525
+    second: BallObstacle_14
+  - first:
+      213: 592458435461825183
+    second: BallObstacle_15
+  - first:
+      213: 7381341545492211369
+    second: BallObstacle_16
+  - first:
+      213: 7537585368395344391
+    second: BallObstacle_17
+  - first:
+      213: -449123206696768456
+    second: BallObstacle_18
+  - first:
+      213: 4667423911573955384
+    second: BallObstacle_19
+  - first:
+      213: -5961297949733307741
+    second: BallObstacle_20
+  - first:
+      213: 5593812241360260873
+    second: BallObstacle_21
+  - first:
+      213: 171165633035334021
+    second: BallObstacle_22
+  - first:
+      213: -8134297352256433663
+    second: BallObstacle_23
+  - first:
+      213: 5861532586138738618
+    second: BallObstacle_24
+  - first:
+      213: 1618405356131809033
+    second: BallObstacle_25
+  - first:
+      213: 1450710887864910750
+    second: BallObstacle_26
+  - first:
+      213: 7115842984630312570
+    second: BallObstacle_27
+  - first:
+      213: -6195861895407360530
+    second: BallObstacle_28
+  - first:
+      213: 1576502823172032766
+    second: BallObstacle_29
+  - first:
+      213: -887073332364009885
+    second: BallObstacle_30
+  - first:
+      213: 7829886864340155371
+    second: BallObstacle_31
+  - first:
+      213: 233394227178431821
+    second: BallObstacle_32
+  - first:
+      213: -2385711005269210709
+    second: BallObstacle_33
+  - first:
+      213: -5647450659586784890
+    second: BallObstacle_34
+  - first:
+      213: -5056580783049173737
+    second: BallObstacle_35
+  - first:
+      213: -2140270549642697175
+    second: BallObstacle_36
+  - first:
+      213: -3044481014327659674
+    second: BallObstacle_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BallObstacle_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 278
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fa8ea6be554b80800000000000000
+      internalID: -8411212590339132371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c31b34825e8610800000000000000
+      internalID: 1625327243407639171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 278
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b699f4132baf6f2f0800000000000000
+      internalID: -939287829021746837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 278
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bada1d48f6cc050800000000000000
+      internalID: 5822151034527394649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 278
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1303959f92a410fa0800000000000000
+      internalID: -5836302097957965775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1af26bcd290620800000000000000
+      internalID: 2740772199793826490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 230
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5866c0c621c5ce0800000000000000
+      internalID: -1415235927627364867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 230
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faabcf6db88145f0800000000000000
+      internalID: -774187313725199627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 230
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aaa763d773f7c60800000000000000
+      internalID: 7818028489062918805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 230
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4958d482aaa5401f0800000000000000
+      internalID: -1079638323794967148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 230
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956475521b2f8be80800000000000000
+      internalID: -8162507481959414183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 230
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49916f481b0fec80800000000000000
+      internalID: -8291396189926876852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 231
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbadfc241b201790800000000000000
+      internalID: -7561496408700900389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 231
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99db1f99c322ea0800000000000000
+      internalID: -5899085930018530899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 231
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd9b561fd239dbe0800000000000000
+      internalID: -1452073471116075525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 182
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c2eddec5d83800800000000000000
+      internalID: 592458435461825183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a665e0170bcf6660800000000000000
+      internalID: 7381341545492211369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae26be4f1ea9860800000000000000
+      internalID: 7537585368395344391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_18
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 134
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c6474b2d464c9f0800000000000000
+      internalID: -449123206696768456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 134
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a789815506c040800000000000000
+      internalID: 4667423911573955384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab1e95917354da0800000000000000
+      internalID: -5961297949733307741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 134
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8282a89631ad40800000000000000
+      internalID: 5593812241360260873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 78
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58173d28c3a106200800000000000000
+      internalID: 171165633035334021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 78
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102da5dc7ab2d1f80800000000000000
+      internalID: -8134297352256433663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1d24d4d8585150800000000000000
+      internalID: 5861532586138738618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90773d2c81bb57610800000000000000
+      internalID: 1618405356131809033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 78
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93caf6cdd5f12410800000000000000
+      internalID: 1450710887864910750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 78
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e58504e7d80c260800000000000000
+      internalID: 7115842984630312570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 78
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5add6ee60e30aa0800000000000000
+      internalID: -6195861895407360530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 78
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c19a07fcd0e510800000000000000
+      internalID: 1576502823172032766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e98be018b70b3f0800000000000000
+      internalID: -887073332364009885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_31
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 22
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfd7c5e9859ac60800000000000000
+      internalID: 7829886864340155371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e89320de2d3300800000000000000
+      internalID: 233394227178431821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 22
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba940321b7044eed0800000000000000
+      internalID: -2385711005269210709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 22
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c8cceb8930a1b0800000000000000
+      internalID: -5647450659586784890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159948919a63d9b0800000000000000
+      internalID: -5056580783049173737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 104
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262155564b3c42e0800000000000000
+      internalID: -2140270549642697175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BallObstacle_37
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6633497d5a4dfb5d0800000000000000
+      internalID: -3044481014327659674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

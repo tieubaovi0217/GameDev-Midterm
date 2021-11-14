@@ -12,6 +12,8 @@ public class Player : MonoBehaviour
     private double shootTime = 0;
     public double timeBetweenShoot;
 
+    
+
     // Start is called before the first frame update
     void Start()
     {

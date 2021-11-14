@@ -1,0 +1,3204 @@
+fileFormatVersion: 2
+guid: f5bdc12c36102364f98ea2eb28b7dc7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1340383789436837426
+    second: ObstacleExplosion_0
+  - first:
+      213: -1780905370433820098
+    second: ObstacleExplosion_1
+  - first:
+      213: 7114666066508611238
+    second: ObstacleExplosion_2
+  - first:
+      213: 2222637727119996387
+    second: ObstacleExplosion_3
+  - first:
+      213: 7457881332595476462
+    second: ObstacleExplosion_4
+  - first:
+      213: -6321421704438795618
+    second: ObstacleExplosion_5
+  - first:
+      213: 3213638021646419145
+    second: ObstacleExplosion_6
+  - first:
+      213: -9159597274350573471
+    second: ObstacleExplosion_7
+  - first:
+      213: 1238892951042251967
+    second: ObstacleExplosion_8
+  - first:
+      213: 2610689011078626176
+    second: ObstacleExplosion_9
+  - first:
+      213: 1840250199225856805
+    second: ObstacleExplosion_10
+  - first:
+      213: -7697429693283898380
+    second: ObstacleExplosion_11
+  - first:
+      213: 8147824036290236749
+    second: ObstacleExplosion_12
+  - first:
+      213: -8710538765846926001
+    second: ObstacleExplosion_13
+  - first:
+      213: -4798176799944848993
+    second: ObstacleExplosion_14
+  - first:
+      213: 6388494256470705449
+    second: ObstacleExplosion_15
+  - first:
+      213: 3577657633019298793
+    second: ObstacleExplosion_16
+  - first:
+      213: -5604355031147358875
+    second: ObstacleExplosion_17
+  - first:
+      213: -6282599095078343378
+    second: ObstacleExplosion_18
+  - first:
+      213: 725615876830901355
+    second: ObstacleExplosion_19
+  - first:
+      213: 258791824859431353
+    second: ObstacleExplosion_20
+  - first:
+      213: 5806487596293008135
+    second: ObstacleExplosion_21
+  - first:
+      213: -6712669610315180917
+    second: ObstacleExplosion_22
+  - first:
+      213: -6078811015836193820
+    second: ObstacleExplosion_23
+  - first:
+      213: 6229952374299845448
+    second: ObstacleExplosion_24
+  - first:
+      213: -4063297549252396595
+    second: ObstacleExplosion_25
+  - first:
+      213: 5032527734717737219
+    second: ObstacleExplosion_26
+  - first:
+      213: -6865563333611832172
+    second: ObstacleExplosion_27
+  - first:
+      213: 1711554999866264667
+    second: ObstacleExplosion_28
+  - first:
+      213: 2583294979078475156
+    second: ObstacleExplosion_29
+  - first:
+      213: -3487019659741083102
+    second: ObstacleExplosion_30
+  - first:
+      213: -4772401440411044225
+    second: ObstacleExplosion_31
+  - first:
+      213: -310847725689520382
+    second: ObstacleExplosion_32
+  - first:
+      213: 3695282359111778031
+    second: ObstacleExplosion_33
+  - first:
+      213: 4728004274312482856
+    second: ObstacleExplosion_34
+  - first:
+      213: 6276250786695831935
+    second: ObstacleExplosion_35
+  - first:
+      213: 835118802728361113
+    second: ObstacleExplosion_36
+  - first:
+      213: 6795681894501571945
+    second: ObstacleExplosion_37
+  - first:
+      213: 6481415936021632507
+    second: ObstacleExplosion_38
+  - first:
+      213: 1139634541030148318
+    second: ObstacleExplosion_39
+  - first:
+      213: -3144365885697365724
+    second: ObstacleExplosion_40
+  - first:
+      213: 808510145254007345
+    second: ObstacleExplosion_41
+  - first:
+      213: -7731970016579076214
+    second: ObstacleExplosion_42
+  - first:
+      213: 138033092289047779
+    second: ObstacleExplosion_43
+  - first:
+      213: 4300534767218045351
+    second: ObstacleExplosion_44
+  - first:
+      213: 1540654440368858394
+    second: ObstacleExplosion_45
+  - first:
+      213: -2591056107301717001
+    second: ObstacleExplosion_46
+  - first:
+      213: 7660178439241857129
+    second: ObstacleExplosion_47
+  - first:
+      213: -8448844676269906773
+    second: ObstacleExplosion_48
+  - first:
+      213: 7582310169097996580
+    second: ObstacleExplosion_49
+  - first:
+      213: 3467347834625557946
+    second: ObstacleExplosion_50
+  - first:
+      213: 6102913246900468535
+    second: ObstacleExplosion_51
+  - first:
+      213: -4846175576486433795
+    second: ObstacleExplosion_52
+  - first:
+      213: -4447436884167849505
+    second: ObstacleExplosion_53
+  - first:
+      213: 341300932998356714
+    second: ObstacleExplosion_54
+  - first:
+      213: -4091855953242581011
+    second: ObstacleExplosion_55
+  - first:
+      213: -1495183840891192177
+    second: ObstacleExplosion_56
+  - first:
+      213: -5533491594576282748
+    second: ObstacleExplosion_57
+  - first:
+      213: 2516578432027490855
+    second: ObstacleExplosion_58
+  - first:
+      213: 2803174486237828448
+    second: ObstacleExplosion_59
+  - first:
+      213: 402418297514138846
+    second: ObstacleExplosion_60
+  - first:
+      213: -4203040505173164214
+    second: ObstacleExplosion_61
+  - first:
+      213: 4787663223212751851
+    second: ObstacleExplosion_62
+  - first:
+      213: -3338651637846374451
+    second: ObstacleExplosion_63
+  - first:
+      213: 4576479510451910092
+    second: ObstacleExplosion_64
+  - first:
+      213: 7428699343126457001
+    second: ObstacleExplosion_65
+  - first:
+      213: 28069450731560883
+    second: ObstacleExplosion_66
+  - first:
+      213: -3948698287193300973
+    second: ObstacleExplosion_67
+  - first:
+      213: 6571127731527103716
+    second: ObstacleExplosion_68
+  - first:
+      213: -6674648351177012462
+    second: ObstacleExplosion_69
+  - first:
+      213: 7210327520304116358
+    second: ObstacleExplosion_70
+  - first:
+      213: -573137905693542440
+    second: ObstacleExplosion_71
+  - first:
+      213: 4002608872354925102
+    second: ObstacleExplosion_72
+  - first:
+      213: -4640712147951879260
+    second: ObstacleExplosion_73
+  - first:
+      213: 3041232137856318826
+    second: ObstacleExplosion_74
+  - first:
+      213: 4901683571425258134
+    second: ObstacleExplosion_75
+  - first:
+      213: -8258052191140903463
+    second: ObstacleExplosion_76
+  - first:
+      213: 2096322260860802905
+    second: ObstacleExplosion_77
+  - first:
+      213: -8708840339997769384
+    second: ObstacleExplosion_78
+  - first:
+      213: -1595067429858738340
+    second: ObstacleExplosion_79
+  - first:
+      213: -2012970984253509988
+    second: ObstacleExplosion_80
+  - first:
+      213: 8235990940751488342
+    second: ObstacleExplosion_81
+  - first:
+      213: -7426279072119228528
+    second: ObstacleExplosion_82
+  - first:
+      213: -2336042883047827113
+    second: ObstacleExplosion_83
+  - first:
+      213: 6185026373479407815
+    second: ObstacleExplosion_84
+  - first:
+      213: 3078988766471455497
+    second: ObstacleExplosion_85
+  - first:
+      213: -1130148543859689397
+    second: ObstacleExplosion_86
+  - first:
+      213: 8610130241787394974
+    second: ObstacleExplosion_87
+  - first:
+      213: -6253589107330487502
+    second: ObstacleExplosion_88
+  - first:
+      213: -7745604402322996316
+    second: ObstacleExplosion_89
+  - first:
+      213: 6379565971191689765
+    second: ObstacleExplosion_90
+  - first:
+      213: 8099151215819092164
+    second: ObstacleExplosion_91
+  - first:
+      213: 35734868009016516
+    second: ObstacleExplosion_92
+  - first:
+      213: -5623571579405531066
+    second: ObstacleExplosion_93
+  - first:
+      213: -4634852020835389250
+    second: ObstacleExplosion_94
+  - first:
+      213: -468806005374495320
+    second: ObstacleExplosion_95
+  - first:
+      213: -2208534671256145382
+    second: ObstacleExplosion_96
+  - first:
+      213: -7128076344411249023
+    second: ObstacleExplosion_97
+  - first:
+      213: 283395202274619431
+    second: ObstacleExplosion_98
+  - first:
+      213: 206110553869698217
+    second: ObstacleExplosion_99
+  - first:
+      213: 7921711693174075584
+    second: ObstacleExplosion_100
+  - first:
+      213: 1976546458684994178
+    second: ObstacleExplosion_101
+  - first:
+      213: -8798823509850818580
+    second: ObstacleExplosion_102
+  - first:
+      213: 3615306711276692307
+    second: ObstacleExplosion_103
+  - first:
+      213: 4143370614595015405
+    second: ObstacleExplosion_104
+  - first:
+      213: -4734346825536494687
+    second: ObstacleExplosion_105
+  - first:
+      213: -835001674937007882
+    second: ObstacleExplosion_106
+  - first:
+      213: 2213764805569871291
+    second: ObstacleExplosion_107
+  - first:
+      213: -3270422993685609253
+    second: ObstacleExplosion_108
+  - first:
+      213: 2453449226090324898
+    second: ObstacleExplosion_109
+  - first:
+      213: -3089017754637361404
+    second: ObstacleExplosion_110
+  - first:
+      213: -6643432368244157568
+    second: ObstacleExplosion_111
+  - first:
+      213: -3044267847369972870
+    second: ObstacleExplosion_112
+  - first:
+      213: -8342489978663678574
+    second: ObstacleExplosion_113
+  - first:
+      213: -1956419176107770869
+    second: ObstacleExplosion_114
+  - first:
+      213: 7611153732407277105
+    second: ObstacleExplosion_115
+  - first:
+      213: -7843467271882457116
+    second: ObstacleExplosion_116
+  - first:
+      213: -3706177396863386409
+    second: ObstacleExplosion_117
+  - first:
+      213: 9095111148718939559
+    second: ObstacleExplosion_118
+  - first:
+      213: 8530520731995415055
+    second: ObstacleExplosion_119
+  - first:
+      213: -5802557814917276010
+    second: ObstacleExplosion_120
+  - first:
+      213: -6855831571145353259
+    second: ObstacleExplosion_121
+  - first:
+      213: -6915350918028204129
+    second: ObstacleExplosion_122
+  - first:
+      213: 5315361170292262468
+    second: ObstacleExplosion_123
+  - first:
+      213: -8533300260953047202
+    second: ObstacleExplosion_124
+  - first:
+      213: -5508345822647108067
+    second: ObstacleExplosion_125
+  - first:
+      213: 1262892438864841553
+    second: ObstacleExplosion_126
+  - first:
+      213: -3113937816764642664
+    second: ObstacleExplosion_127
+  - first:
+      213: 7548187107727187555
+    second: ObstacleExplosion_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ObstacleExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 312
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1ecef8b00066de0800000000000000
+      internalID: -1340383789436837426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 308
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ae4b05004f847e0800000000000000
+      internalID: -1780905370433820098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 293
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 15, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae75c5a71f5cb260800000000000000
+      internalID: 7114666066508611238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 339
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57e5d9c3568de10800000000000000
+      internalID: 2222637727119996387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 344
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ce56fe87bf7760800000000000000
+      internalID: 7457881332595476462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 307
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e923b7fb37cc548a0800000000000000
+      internalID: -6321421704438795618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 346
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48cec01c2299c20800000000000000
+      internalID: 3213638021646419145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 329
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a2b00fc292e080800000000000000
+      internalID: -9159597274350573471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 341
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcdb95339e613110800000000000000
+      internalID: 1238892951042251967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 341
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b7b54d2d70b3420800000000000000
+      internalID: 2610689011078626176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 338
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f2be5ec1e98910800000000000000
+      internalID: 1840250199225856805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 330
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe4480a7c3d2590800000000000000
+      internalID: -7697429693283898380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 326
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41187fbac2e21170800000000000000
+      internalID: 8147824036290236749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 311
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dac639423fd1780800000000000000
+      internalID: -8710538765846926001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 326
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9944cd4f93796db0800000000000000
+      internalID: -4798176799944848993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 310
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9254f86bdad78a850800000000000000
+      internalID: 6388494256470705449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3841879a466a130800000000000000
+      internalID: 3577657633019298793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d945dac45932b0800000000000000
+      internalID: -5604355031147358875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 309
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d2aafd869bfc8a0800000000000000
+      internalID: -6282599095078343378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 321
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b3e5abc7e11a00800000000000000
+      internalID: 725615876830901355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 303
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b185872bc9679300800000000000000
+      internalID: 258791824859431353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 317
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ba1c964b9c49050800000000000000
+      internalID: 5806487596293008135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 307
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849a9efd8ec7d2a0800000000000000
+      internalID: -6712669610315180917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2a588699b3aba0800000000000000
+      internalID: -6078811015836193820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 277
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436ebd3dac357650800000000000000
+      internalID: 6229952374299845448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 264
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9781048644c97c0800000000000000
+      internalID: -4063297549252396595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 298
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309e62eaf4127d540800000000000000
+      internalID: 5032527734717737219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 300
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cbe1df58e98b0a0800000000000000
+      internalID: -6865563333611832172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 290
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c8294443aa0c710800000000000000
+      internalID: 1711554999866264667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 286
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dc50ab815b9d320800000000000000
+      internalID: 2583294979078475156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4450381e9b9fc0800000000000000
+      internalID: -3487019659741083102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 288
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76bcbadc2605cdb0800000000000000
+      internalID: -4772401440411044225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 275
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fb903f3a5afabf0800000000000000
+      internalID: -310847725689520382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 290
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeff972ab7484330800000000000000
+      internalID: 3695282359111778031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 291
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8209ce266de3d9140800000000000000
+      internalID: 4728004274312482856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 291
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71654666d8b91750800000000000000
+      internalID: 6276250786695831935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 275
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9fdd5020f69b00800000000000000
+      internalID: 835118802728361113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 282
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd1509dac1f4e50800000000000000
+      internalID: 6795681894501571945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5102c247d92f950800000000000000
+      internalID: 6481415936021632507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 210
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed80ed7b39bc0df00800000000000000
+      internalID: 1139634541030148318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e623f2e7fc54d0800000000000000
+      internalID: -3144365885697365724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 210
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1322a2581b7683b00800000000000000
+      internalID: 808510145254007345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 243
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f35d35c3682b490800000000000000
+      internalID: -7731970016579076214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 250
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2329bd546ae100800000000000000
+      internalID: 138033092289047779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 251
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1bf38e5919eab30800000000000000
+      internalID: 4300534767218045351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 244
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1560dffc01816510800000000000000
+      internalID: 1540654440368858394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbbc2bc238ba0cd0800000000000000
+      internalID: -2591056107301717001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 209
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968fd1384bb6e4a60800000000000000
+      internalID: 7660178439241857129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 209
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46b74e78cafba80800000000000000
+      internalID: -8448844676269906773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 209
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290bed0de6c93960800000000000000
+      internalID: 7582310169097996580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 162
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5839b1c7e7e1030800000000000000
+      internalID: 3467347834625557946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b37807347e1b450800000000000000
+      internalID: 6102913246900468535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 202
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2a544dfceebcb0800000000000000
+      internalID: -4846175576486433795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd98436a7b78742c0800000000000000
+      internalID: -4447436884167849505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 200
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee50e8e36b8cb400800000000000000
+      internalID: 341300932998356714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de798eaa0bec637c0800000000000000
+      internalID: -4091855953242581011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb6c1f73a004be0800000000000000
+      internalID: -1495183840891192177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 176
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bbba166b61533b0800000000000000
+      internalID: -5533491594576282748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 187
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a786220ceace220800000000000000
+      internalID: 2516578432027490855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 177
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065d4a7e750e6e620800000000000000
+      internalID: 2803174486237828448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 175
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc927a3f4da59500800000000000000
+      internalID: 402418297514138846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 179
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f3390edeccba5c0800000000000000
+      internalID: -4203040505173164214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 166
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb3ccbd552317240800000000000000
+      internalID: 4787663223212751851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 173
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc70469360abaa1d0800000000000000
+      internalID: -3338651637846374451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 166
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f6561edbe28f30800000000000000
+      internalID: 4576479510451910092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 161
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaea3291ba081760800000000000000
+      internalID: 7428699343126457001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf15e74409b36000800000000000000
+      internalID: 28069450731560883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31066a234d76339c0800000000000000
+      internalID: -3948698287193300973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 119
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e434634bd5513b50800000000000000
+      internalID: 6571127731527103716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 121
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b827b30b2ee53a0800000000000000
+      internalID: -6674648351177012462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68233f18daa301460800000000000000
+      internalID: 7210327520304116358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 124
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d733d38c1ecb08f0800000000000000
+      internalID: -573137905693542440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aca8b009f1c8730800000000000000
+      internalID: 4002608872354925102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 125
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abfc7493e0e89fb0800000000000000
+      internalID: -4640712147951879260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d7d682480a43a20800000000000000
+      internalID: 3041232137856318826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 46
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aab2cec37460440800000000000000
+      internalID: 4901683571425258134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 51
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d509620941856d80800000000000000
+      internalID: -8258052191140903463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 77
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9571a5d4df1a71d10800000000000000
+      internalID: 2096322260860802905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_78
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 54
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85147d82adbf32780800000000000000
+      internalID: -8708840339997769384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_79
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 54
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f7972af9e2dd9e0800000000000000
+      internalID: -1595067429858738340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 104
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ea6641e8d7014e0800000000000000
+      internalID: -2012970984253509988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 98
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e3dcdf1e1c4270800000000000000
+      internalID: 8235990940751488342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_82
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 90
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0977a6fa78e80f890800000000000000
+      internalID: -7426279072119228528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 56
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759dadfef55b49fd0800000000000000
+      internalID: -2336042883047827113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_84
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 94
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a9ad87b0a5d550800000000000000
+      internalID: 6185026373479407815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_85
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 92
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90303fc48f3caba20800000000000000
+      internalID: 3078988766471455497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_86
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 74
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4871db13e7e050f0800000000000000
+      internalID: -1130148543859689397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 69
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf59326d35d7770800000000000000
+      internalID: 8610130241787394974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_88
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b605ef6d9c639a0800000000000000
+      internalID: -6253589107330487502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_89
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 78
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a306d485d5128490800000000000000
+      internalID: -7745604402322996316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_90
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 46
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522fc0e4375c88850800000000000000
+      internalID: 6379565971191689765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 58
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f111ae17f56070800000000000000
+      internalID: 8099151215819092164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_92
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 68
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd5c15ca4fe7000800000000000000
+      internalID: 35734868009016516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_93
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 69
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480d88817f05f1b0800000000000000
+      internalID: -5623571579405531066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 46
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fa9fb4a2bdafb0800000000000000
+      internalID: -4634852020835389250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 48
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a555150c677e79f0800000000000000
+      internalID: -468806005374495320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_96
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 53
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b4a5fa65b951e0800000000000000
+      internalID: -2208534671256145382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_97
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 48
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a087b45cf31d90800000000000000
+      internalID: -7128076344411249023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_98
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 46
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f0aa5f62dee300800000000000000
+      internalID: 283395202274619431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ccdbe4704cd200800000000000000
+      internalID: 206110553869698217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_100
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f2bc50d29fed60800000000000000
+      internalID: 7921711693174075584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_101
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b9ff288a1e6b10800000000000000
+      internalID: 1976546458684994178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 37
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77cfdc2ac44e580800000000000000
+      internalID: -8798823509850818580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_103
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353abb79c462c2230800000000000000
+      internalID: 3615306711276692307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de25ab71f95308930800000000000000
+      internalID: 4143370614595015405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3266455a83c4eb0800000000000000
+      internalID: -4734346825536494687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_106
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00682966a7964f0800000000000000
+      internalID: -835001674937007882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_107
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf0449c5fd8be10800000000000000
+      internalID: 2213764805569871291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4891c5d9f1d92d0800000000000000
+      internalID: -3270422993685609253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 19
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3229b72176c0220800000000000000
+      internalID: 2453449226090324898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f17fde7ba9125d0800000000000000
+      internalID: -3089017754637361404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839971a579cdc3a0800000000000000
+      internalID: -6643432368244157568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_112
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73ae54a58690c5d0800000000000000
+      internalID: -3044267847369972870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dce779095893c80800000000000000
+      internalID: -8342489978663678574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_114
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c7558ff1769d4e0800000000000000
+      internalID: -1956419176107770869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 19
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13636077eff30a960800000000000000
+      internalID: 7611153732407277105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef3b0c9218662390800000000000000
+      internalID: -7843467271882457116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc30613b43019cc0800000000000000
+      internalID: -3706177396863386409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad561cd663583e70800000000000000
+      internalID: 9095111148718939559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_119
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0221bbb86f726670800000000000000
+      internalID: 8530520731995415055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e503d196c297fa0800000000000000
+      internalID: -5802557814917276010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_121
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d719f182813bd0a0800000000000000
+      internalID: -6855831571145353259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e1c9aafcb700a0800000000000000
+      internalID: -6915350918028204129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_123
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446cc2882d4f3c940800000000000000
+      internalID: 5315361170292262468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3520cf90a39980800000000000000
+      internalID: -8533300260953047202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_125
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ebc15a8ac6e83b0800000000000000
+      internalID: -5508345822647108067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_126
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc0186bf1b68110800000000000000
+      internalID: 1262892438864841553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_127
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a8613dd0219c4d0800000000000000
+      internalID: -3113937816764642664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ObstacleExplosion_128
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1346be2c80c860800000000000000
+      internalID: 7548187107727187555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
