@@ -14,7 +14,7 @@ public class ScoreManager : MonoBehaviour
         if(GameObject.FindGameObjectWithTag("Player") != null)
         {
             score += 1 * Time.deltaTime;
-            scoreText.text = ((int)score).ToString();
+            scoreText.text = "Score: " + ((int)score).ToString();
         }
     }
 }
