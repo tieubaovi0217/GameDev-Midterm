@@ -25,5 +25,9 @@ public class Bullet : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
+        else if(collision.tag == "Border")
+        {
+            Destroy(this.gameObject);
+        }
     }
 }
