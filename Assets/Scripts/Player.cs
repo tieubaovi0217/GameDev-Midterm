@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     public double timeBetweenShoot;
     private bool isMoving = false;
 
-    private float MIN_LEFT_POSITION_X = -7f;
+    public int score = 0;
 
     private Animator anim;
     private AudioSource audioSource;
@@ -53,7 +53,7 @@ public class Player : MonoBehaviour
                 shootTime = Time.time + timeBetweenShoot;
             }
         }
-       
+        
     }
 
     private void Shoot()

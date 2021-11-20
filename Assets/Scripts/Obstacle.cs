@@ -5,6 +5,7 @@ using UnityEngine;
 public class Obstacle : MonoBehaviour
 {
     private GameObject player;
+    public GameObject coin;
     private int health;
     private Animator anim;
 
@@ -26,9 +27,13 @@ public class Obstacle : MonoBehaviour
     {   
         if(collision.tag == "Bullet")
         {
+            
             anim.Play("ObstacleDie");
-            Destroy(this.gameObject, 0.4f);
             GetComponent<AudioSource>().Play();
+            Invoke("GenerateCoin", 0.4f);
+
+            Destroy(this.gameObject, 0.4f);
+            
         }
         else if(collision.tag == "Player")
         {
@@ -38,5 +43,11 @@ public class Obstacle : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
+    }
+
+    void GenerateCoin()
+    {
+        Instantiate(coin, new Vector3(transform.position.x - 0.5f,
+                   transform.position.y, transform.position.z), Quaternion.identity);
     }
 }

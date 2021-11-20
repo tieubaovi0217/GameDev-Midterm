@@ -7,14 +7,28 @@ public class ScoreManager : MonoBehaviour
 {
     public Text scoreText;
     public float score;
+    public GameObject player;
+    public AudioSource audioSource;
 
+
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+        player = GameObject.FindGameObjectWithTag("Player");
+    }
     // Update is called once per frame
     void Update()
     {
         if(GameObject.FindGameObjectWithTag("Player") != null)
         {
-            score += 1 * Time.deltaTime;
-            scoreText.text = "Score: " + ((int)score).ToString();
+            int playerScore = player.GetComponent<Player>().score;
+            scoreText.text = "Score: " + ((int)playerScore).ToString();
         }
+    }
+
+    public void AddScore()
+    {
+        player.GetComponent<Player>().score += 10;
+        audioSource.Play();
     }
 }
