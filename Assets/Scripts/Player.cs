@@ -13,6 +13,8 @@ public class Player : MonoBehaviour
     public double timeBetweenShoot;
     private bool isMoving = false;
 
+    private float MIN_LEFT_POSITION_X = -7f;
+
     private Animator anim;
     private AudioSource audioSource;
 
@@ -27,7 +29,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
- 
+
         float directionY = Input.GetAxisRaw("Vertical");
         float directionX = Input.GetAxisRaw("Horizontal");
         _direction = new Vector2(directionX, directionY).normalized;
@@ -51,6 +53,7 @@ public class Player : MonoBehaviour
                 shootTime = Time.time + timeBetweenShoot;
             }
         }
+       
     }
 
     private void Shoot()
@@ -67,9 +70,13 @@ public class Player : MonoBehaviour
         {
             anim.Play("ShipMoveVertical");
         }
-        if (_direction.x == 1 || _direction.x == -1)
+        else if (_direction.x == 1 || _direction.x == -1)
         {
             anim.Play("ShipMoveHorizontal");
+        }
+        else
+        {
+            anim.Play("Ship");
         }
     }
 }
