@@ -17,7 +17,8 @@ public class Player : MonoBehaviour
 
     private Animator anim;
     private AudioSource audioSource;
-
+    
+    public int level;
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +30,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
         float directionY = Input.GetAxisRaw("Vertical");
         float directionX = Input.GetAxisRaw("Horizontal");
         _direction = new Vector2(directionX, directionY).normalized;
@@ -58,8 +59,27 @@ public class Player : MonoBehaviour
 
     private void Shoot()
     {
-        Instantiate(bullet, new Vector3(transform.position.x + 1f,
+        if(level == 0)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
                    transform.position.y, transform.position.z), Quaternion.identity);
+        }
+        else if(level == 1)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y - 0.25f, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y + 0.25f, transform.position.z), Quaternion.identity);
+        }
+        else if(level == 2)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y - 0.4f, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y + 0.4f, transform.position.z), Quaternion.identity);
+        }
     }
 
     void FixedUpdate()

@@ -4,50 +4,64 @@ using UnityEngine;
 
 public class Obstacle : MonoBehaviour
 {
-    private GameObject player;
+    //[SerializeField] GameObject player;
     public GameObject coin;
-    private int health;
-    private Animator anim;
+    public GameObject gift;
+    public GameObject player;
+    public AudioSource audioSource;
+    public AnimationClip animDie;
+    public Animator anim;
+    public bool isDead;
+    public int health; // set heath for obstacle, default is 10 -> EASY, 20 -> MEDIUM, 30 -> HARD
+                       // bullet damage is 10
 
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
         player = GameObject.FindGameObjectWithTag("Player");
     }
 
-    public void hurt(int damage)
+    public void Hurt(int damage)
     {
         this.health -= damage;
         if (this.health <= 0)
-            Destroy(this.gameObject);
+            this.HandleDie();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {   
-        if(collision.tag == "Bullet")
+        if(isDead == false && collision.tag == "Bullet")
         {
-            
-            anim.Play("ObstacleDie");
-            GetComponent<AudioSource>().Play();
-            Invoke("GenerateCoin", 0.4f);
-
-            Destroy(this.gameObject, 0.4f);
-            
+            this.Hurt(Bullet.DAMAGE);         
         }
         else if(collision.tag == "Player")
         {
             Destroy(player.gameObject);
         }
-        else
+        else if(collision.tag == "Border")
         {
             Destroy(this.gameObject);
         }
     }
 
-    void GenerateCoin()
+    void HandleDie()
     {
-        Instantiate(coin, new Vector3(transform.position.x - 0.5f,
-                   transform.position.y, transform.position.z), Quaternion.identity);
+        isDead = true;
+        audioSource.Play();
+        anim.Play(animDie.name);
+        Destroy(this.gameObject, animDie.length);
+        
+        float giftRate = Random.Range(0.0f, 1.0f);
+        if(giftRate < 0.05f) // 5% rate of gift
+        {
+            gift.GetComponent<Gift>().GenerateGift(transform);
+        }
+        else
+        {
+            coin.GetComponent<Coin>().GenerateCoin(transform);
+        }
     }
+
 }

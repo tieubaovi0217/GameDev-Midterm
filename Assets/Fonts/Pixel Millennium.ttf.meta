@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a3adf54f9f4798f4d9a887ea1ac6ea9a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pixel Millennium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 286eecaed01457e4c80c35d419533881, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -15,12 +15,6 @@ public class Coin : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Player")
@@ -32,5 +26,11 @@ public class Coin : MonoBehaviour
         {
             Destroy(this.gameObject);
         }
+    }
+
+    public void GenerateCoin(Transform transform)
+    {
+        Instantiate(this, new Vector3(transform.position.x,
+                   transform.position.y, transform.position.z), Quaternion.identity);
     }
 }

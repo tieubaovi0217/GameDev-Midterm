@@ -14,6 +14,8 @@ public class LevelManger : MonoBehaviour
         public static int HARD = 2;
     }
 
+    public static int MAXIMUM_LEVEL = 2;
+
     private float[] enemyHealthMuliplier = new float[] {1, 1.5f, 2 };
     private string[] backgroundResources = new string[] {"SKY" , "CITY", "SPACE"};
 
