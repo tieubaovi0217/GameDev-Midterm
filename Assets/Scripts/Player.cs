@@ -11,20 +11,40 @@ public class Player : MonoBehaviour
     private Vector2 _direction;
     private double shootTime = 0;
     public double timeBetweenShoot;
+    private bool isMoving = false;
 
-    
+    public int score = 0;
+
+    private Animator anim;
+    private AudioSource audioSource;
 
     // Start is called before the first frame update
     void Start()
     {
+        anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
+
         float directionY = Input.GetAxisRaw("Vertical");
-        _direction = new Vector2(0, directionY).normalized;
+        float directionX = Input.GetAxisRaw("Horizontal");
+        _direction = new Vector2(directionX, directionY).normalized;
+
+        if (_rigidbody2D.velocity.x != 0 || _rigidbody2D.velocity.y != 0)
+            isMoving = true;
+        else
+            isMoving = false;
+
+        if (isMoving)
+        {
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+        }
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if (Time.time > shootTime)
@@ -33,6 +53,7 @@ public class Player : MonoBehaviour
                 shootTime = Time.time + timeBetweenShoot;
             }
         }
+        
     }
 
     private void Shoot()
@@ -43,6 +64,19 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        _rigidbody2D.velocity = new Vector2(0, _direction.y * speed);
+        _rigidbody2D.velocity = new Vector2(_direction.x * speed, _direction.y * speed);
+        
+        if (_direction.y == 1 || _direction.y == -1)
+        {
+            anim.Play("ShipMoveVertical");
+        }
+        else if (_direction.x == 1 || _direction.x == -1)
+        {
+            anim.Play("ShipMoveHorizontal");
+        }
+        else
+        {
+            anim.Play("Ship");
+        }
     }
 }
