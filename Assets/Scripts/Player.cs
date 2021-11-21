@@ -12,11 +12,15 @@ public class Player : MonoBehaviour
     private double shootTime = 0;
     public double timeBetweenShoot;
     private bool isMoving = false;
+    private float invisibleTime = 0;
+    private int defaultInvisibleTime = 3000;
 
     public int score = 0;
+    public int health = 3;
 
     private Animator anim;
     private AudioSource audioSource;
+    public PlayerInfoManager playerInfoManager;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +28,8 @@ public class Player : MonoBehaviour
         anim = GetComponent<Animator>();
         audioSource = GetComponent<AudioSource>();
         _rigidbody2D = GetComponent<Rigidbody2D>();
+        playerInfoManager = GetComponentInParent<PlayerInfoManager>();
+        playerInfoManager.updateHealth(health);
     }
 
     // Update is called once per frame
@@ -53,7 +59,38 @@ public class Player : MonoBehaviour
                 shootTime = Time.time + timeBetweenShoot;
             }
         }
-        
+
+    }
+
+    public void checkInvisible()
+    {
+        this.invisibleTime -= Time.time;
+        //Debug.Log("invisibleTime: " + invisibleTime);
+        if (isInvisible())
+            anim.Play("Blink");
+        else
+            anim.Play("Idle");
+    }
+
+    private bool isInvisible()
+    {
+        return this.invisibleTime > 0;
+    }
+
+    public void hurt()
+    {
+        if (!isInvisible())
+        {
+            this.health -= 1;
+            if (this.health < 0)
+            {
+                Destroy(this.gameObject);
+                return;
+            }
+            this.invisibleTime = this.defaultInvisibleTime;
+        }
+        Debug.Log("Player hurt, remaing health: " + health);
+        playerInfoManager.updateHealth(health);
     }
 
     private void Shoot()
@@ -65,7 +102,6 @@ public class Player : MonoBehaviour
     void FixedUpdate()
     {
         _rigidbody2D.velocity = new Vector2(_direction.x * speed, _direction.y * speed);
-        
         if (_direction.y == 1 || _direction.y == -1)
         {
             anim.Play("ShipMoveVertical");
@@ -78,5 +114,6 @@ public class Player : MonoBehaviour
         {
             anim.Play("Ship");
         }
+        checkInvisible();
     }
 }

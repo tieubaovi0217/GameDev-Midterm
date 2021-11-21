@@ -507,7 +507,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &780384864
 GameObject:
@@ -956,6 +956,8 @@ MonoBehaviour:
   bullet: {fileID: 1114084895509642233, guid: b9ec2e6bcbec49f48b844daedbc72313, type: 3}
   timeBetweenShoot: 0.2
   score: 0
+  health: 3
+  playerInfoManager: {fileID: 0}
 --- !u!50 &1027537454
 Rigidbody2D:
   serializedVersion: 4
@@ -6499,7 +6501,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1729162490
 AudioSource:
@@ -6696,6 +6698,7 @@ GameObject:
   - component: {fileID: 2070839646}
   - component: {fileID: 2070839648}
   - component: {fileID: 2070839649}
+  - component: {fileID: 2070839650}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -6761,3 +6764,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 765f4bc560c392a469da0bf5ec7f385b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &2070839650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070839645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4eb8f07ced217d4ea970a0be750ea71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inGameInfoCanvas: {fileID: 148739845}
+  shipHealthPrefab: {fileID: 7569236088989171439, guid: 48a83442f742c784ab4b6d82fc8b1777, type: 3}

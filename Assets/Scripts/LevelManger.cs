@@ -17,8 +17,6 @@ public class LevelManger : MonoBehaviour
     private float[] enemyHealthMuliplier = new float[] {1, 1.5f, 2 };
     private string[] backgroundResources = new string[] {"SKY" , "CITY", "SPACE"};
 
-    private int level = 0;
-
     void Start()
     {
         loadBackground();

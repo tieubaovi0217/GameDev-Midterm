@@ -37,7 +37,7 @@ public class Obstacle : MonoBehaviour
         }
         else if(collision.tag == "Player")
         {
-            Destroy(player.gameObject);
+            collision.gameObject.GetComponent<Player>().hurt();
         }
         else
         {
