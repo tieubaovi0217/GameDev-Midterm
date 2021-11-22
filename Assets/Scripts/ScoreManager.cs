@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class ScoreManager : MonoBehaviour
 {
     public Text scoreText;
-    public float score;
     public GameObject player;
     public AudioSource audioSource;
 
@@ -24,6 +23,11 @@ public class ScoreManager : MonoBehaviour
             int playerScore = player.GetComponent<Player>().score;
             scoreText.text = "Score: " + ((int)playerScore).ToString();
         }
+    }
+
+    public int GetScore()
+    {
+        return player.GetComponent<Player>().score;
     }
 
     public void AddScore()

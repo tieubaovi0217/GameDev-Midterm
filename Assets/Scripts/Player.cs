@@ -59,7 +59,6 @@ public class Player : MonoBehaviour
                 shootTime = Time.time + timeBetweenShoot;
             }
         }
-
     }
 
     public void checkInvisible()

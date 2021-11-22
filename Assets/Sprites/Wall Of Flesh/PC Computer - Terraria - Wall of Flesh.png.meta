@@ -1,0 +1,1308 @@
+fileFormatVersion: 2
+guid: ebe6988f62a36214aa22b111aa1aa77e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8405727771749066006
+    second: PC Computer - Terraria - Wall of Flesh_0
+  - first:
+      213: -8175406199655302023
+    second: PC Computer - Terraria - Wall of Flesh_1
+  - first:
+      213: -8645934991784191198
+    second: PC Computer - Terraria - Wall of Flesh_2
+  - first:
+      213: 8312935677486350072
+    second: PC Computer - Terraria - Wall of Flesh_3
+  - first:
+      213: -1831091783361202768
+    second: PC Computer - Terraria - Wall of Flesh_4
+  - first:
+      213: -2955628174371396528
+    second: PC Computer - Terraria - Wall of Flesh_5
+  - first:
+      213: -7342597028343903556
+    second: PC Computer - Terraria - Wall of Flesh_6
+  - first:
+      213: 6771945173181488916
+    second: PC Computer - Terraria - Wall of Flesh_7
+  - first:
+      213: 2704822599251400350
+    second: PC Computer - Terraria - Wall of Flesh_8
+  - first:
+      213: -5966581320751591376
+    second: PC Computer - Terraria - Wall of Flesh_9
+  - first:
+      213: -8875133734245419695
+    second: PC Computer - Terraria - Wall of Flesh_10
+  - first:
+      213: 7140331466504043754
+    second: PC Computer - Terraria - Wall of Flesh_11
+  - first:
+      213: -380195029179520550
+    second: PC Computer - Terraria - Wall of Flesh_12
+  - first:
+      213: 3357619351201644503
+    second: PC Computer - Terraria - Wall of Flesh_13
+  - first:
+      213: 6354655740587003749
+    second: PC Computer - Terraria - Wall of Flesh_14
+  - first:
+      213: -4513604214017002923
+    second: PC Computer - Terraria - Wall of Flesh_15
+  - first:
+      213: -5054279385582816822
+    second: PC Computer - Terraria - Wall of Flesh_16
+  - first:
+      213: 7412665071074096545
+    second: PC Computer - Terraria - Wall of Flesh_17
+  - first:
+      213: -6148293824258832926
+    second: PC Computer - Terraria - Wall of Flesh_18
+  - first:
+      213: 1279561318590297012
+    second: PC Computer - Terraria - Wall of Flesh_19
+  - first:
+      213: 3193636843061688776
+    second: PC Computer - Terraria - Wall of Flesh_20
+  - first:
+      213: 8204470909060786095
+    second: PC Computer - Terraria - Wall of Flesh_21
+  - first:
+      213: -6759003530329731011
+    second: PC Computer - Terraria - Wall of Flesh_22
+  - first:
+      213: -4001891387087616464
+    second: PC Computer - Terraria - Wall of Flesh_23
+  - first:
+      213: -6676364880400360512
+    second: PC Computer - Terraria - Wall of Flesh_24
+  - first:
+      213: -6655877529501272261
+    second: PC Computer - Terraria - Wall of Flesh_25
+  - first:
+      213: -5581027082137412570
+    second: PC Computer - Terraria - Wall of Flesh_26
+  - first:
+      213: -6233473172884695338
+    second: PC Computer - Terraria - Wall of Flesh_27
+  - first:
+      213: 136585440846661025
+    second: PC Computer - Terraria - Wall of Flesh_28
+  - first:
+      213: -6112242556500481738
+    second: PC Computer - Terraria - Wall of Flesh_29
+  - first:
+      213: 6491866544951551717
+    second: PC Computer - Terraria - Wall of Flesh_30
+  - first:
+      213: 8679181787754838173
+    second: PC Computer - Terraria - Wall of Flesh_31
+  - first:
+      213: 7027802853824235465
+    second: PC Computer - Terraria - Wall of Flesh_32
+  - first:
+      213: 8072827100755827319
+    second: PC Computer - Terraria - Wall of Flesh_33
+  - first:
+      213: 2610663047260379459
+    second: PC Computer - Terraria - Wall of Flesh_34
+  - first:
+      213: 4540550309675598801
+    second: PC Computer - Terraria - Wall of Flesh_35
+  - first:
+      213: 6711355101937380603
+    second: PC Computer - Terraria - Wall of Flesh_36
+  - first:
+      213: 6574389845217747982
+    second: PC Computer - Terraria - Wall of Flesh_37
+  - first:
+      213: -5785989869096677950
+    second: PC Computer - Terraria - Wall of Flesh_38
+  - first:
+      213: 8622550653386181901
+    second: PC Computer - Terraria - Wall of Flesh_39
+  - first:
+      213: 2438389069485559040
+    second: PC Computer - Terraria - Wall of Flesh_40
+  - first:
+      213: -5512965389070735448
+    second: PC Computer - Terraria - Wall of Flesh_41
+  - first:
+      213: 238580440972458560
+    second: PC Computer - Terraria - Wall of Flesh_42
+  - first:
+      213: 458818806382946582
+    second: PC Computer - Terraria - Wall of Flesh_43
+  - first:
+      213: 2132531573217559830
+    second: PC Computer - Terraria - Wall of Flesh_44
+  - first:
+      213: -5427240242062119377
+    second: PC Computer - Terraria - Wall of Flesh_45
+  - first:
+      213: -3447304000130069732
+    second: PC Computer - Terraria - Wall of Flesh_46
+  - first:
+      213: 7189382591814780799
+    second: PC Computer - Terraria - Wall of Flesh_47
+  - first:
+      213: -6174258931459207457
+    second: PC Computer - Terraria - Wall of Flesh_48
+  - first:
+      213: 6457740887784359922
+    second: PC Computer - Terraria - Wall of Flesh_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 318
+        width: 138
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6152db97fd427a470800000000000000
+      internalID: 8405727771749066006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 316
+        width: 130
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf407606f1b8e80800000000000000
+      internalID: -8175406199655302023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 393
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b559fdee7730880800000000000000
+      internalID: -8645934991784191198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 395
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febe3174fa7d5370800000000000000
+      internalID: 8312935677486350072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_4
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 12
+        width: 148
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b57e9d79b7a696e0800000000000000
+      internalID: -1831091783361202768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 355
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e472c5df7bf6d0800000000000000
+      internalID: -2955628174371396528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 345
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba09bcc7ead91a90800000000000000
+      internalID: -7342597028343903556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 368
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f57e57148cafd50800000000000000
+      internalID: 6771945173181488916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_8
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 315
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9614d0c2d5798520800000000000000
+      internalID: 2704822599251400350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 343
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030de1da6e1723da0800000000000000
+      internalID: -5966581320751591376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 293
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155373424e035d480800000000000000
+      internalID: -8875133734245419695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 314
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec748f33ad871360800000000000000
+      internalID: 7140331466504043754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 218
+        width: 142
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9a264a2a649baf0800000000000000
+      internalID: -380195029179520550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 216
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dff95fa209a89e20800000000000000
+      internalID: 3357619351201644503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 267
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc5974ab5403850800000000000000
+      internalID: 6354655740587003749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 245
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527fc6a1e47c51c0800000000000000
+      internalID: -4513604214017002923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_16
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 271
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b1c27da79bd9b0800000000000000
+      internalID: -5054279385582816822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 259
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a53150bb931fd660800000000000000
+      internalID: 7412665071074096545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_18
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 235
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50356875fdcaaa0800000000000000
+      internalID: -6148293824258832926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 195
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b7e66d3ae1c110800000000000000
+      internalID: 1279561318590297012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 209
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ba44c9c3125c20800000000000000
+      internalID: 3193636843061688776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7289892d22cd170800000000000000
+      internalID: 8204470909060786095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d51399123332a0800000000000000
+      internalID: -6759003530329731011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_23
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 149
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03682f28cfc6678c0800000000000000
+      internalID: -4001891387087616464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_24
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 150
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbd7d0a389c853a0800000000000000
+      internalID: -6676364880400360512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 148
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b377299b6a291a3a0800000000000000
+      internalID: -6655877529501272261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_26
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 143
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c5d5730753c82b0800000000000000
+      internalID: -5581027082137412570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 159
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d745fc214e79a0800000000000000
+      internalID: -6233473172884695338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 82
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c72b1cbf35e100800000000000000
+      internalID: 136585440846661025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63963c667c3fc2ba0800000000000000
+      internalID: -6112242556500481738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6641d2a3eb71a50800000000000000
+      internalID: 6491866544951551717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98ba280ad5a27870800000000000000
+      internalID: 8679181787754838173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78bade575c78160800000000000000
+      internalID: 7027802853824235465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a92b9f971780070800000000000000
+      internalID: 8072827100755827319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 48
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499138a530fa3420800000000000000
+      internalID: 2610663047260379459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 48
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d301052376430f30800000000000000
+      internalID: 4540550309675598801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcab7c28e5832d50800000000000000
+      internalID: 6711355101937380603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a32b4bbcec3b50800000000000000
+      internalID: 6574389845217747982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdcb7a9ed804bfa0800000000000000
+      internalID: -5785989869096677950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d45e0922479a770800000000000000
+      internalID: 8622550653386181901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc1e680f5e6d120800000000000000
+      internalID: 2438389069485559040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76a6500330e73b0800000000000000
+      internalID: -5512965389070735448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_42
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af482a5ab9f4300800000000000000
+      internalID: 238580440972458560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61969b2064d0e5600800000000000000
+      internalID: 458818806382946582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61500fdca26489d10800000000000000
+      internalID: 2132531573217559830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eae2d21c19ea4b0800000000000000
+      internalID: -5427240242062119377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc677c647b820d0800000000000000
+      internalID: -3447304000130069732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_47
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f774f735061d5c360800000000000000
+      internalID: 7189382591814780799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4717e630a05aa0800000000000000
+      internalID: -6174258931459207457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Wall of Flesh_49
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 28
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f707e37f118e9950800000000000000
+      internalID: 6457740887784359922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
