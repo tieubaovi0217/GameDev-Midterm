@@ -1168,6 +1168,20 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6838769254485823103, guid: 90a7632c10b2c934894fb6b5296cce78, type: 3}
   m_PrefabInstance: {fileID: 6838769254968554579}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1027537457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027537449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4eb8f07ced217d4ea970a0be750ea71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inGameInfoCanvas: {fileID: 148739845}
+  shipHealthPrefab: {fileID: 7569236088989171439, guid: 48a83442f742c784ab4b6d82fc8b1777, type: 3}
 --- !u!1 &1062828804
 GameObject:
   m_ObjectHideFlags: 0
@@ -6739,7 +6753,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   audioSource: {fileID: 804098221}
   player: {fileID: 0}
-  playerLevel: 0
 --- !u!4 &2101638192
 Transform:
   m_ObjectHideFlags: 0

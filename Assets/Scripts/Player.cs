@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     public double timeBetweenShoot;
     private bool isMoving = false;
     private float invisibleTime = 0;
-    private int defaultInvisibleTime = 3000;
+    private int defaultInvisibleTime = 3;
 
     public int score = 0;
     public int health = 3;
@@ -66,12 +66,18 @@ public class Player : MonoBehaviour
 
     public void checkInvisible()
     {
-        this.invisibleTime -= Time.time;
-        //Debug.Log("invisibleTime: " + invisibleTime);
+        this.invisibleTime -= Time.deltaTime;
+        Debug.Log("invisibleTime: " + invisibleTime);
         if (isInvisible())
+        {
             anim.Play("Blink");
+            Debug.Log("Blink");
+        }
         else
+        {
             anim.Play("Idle");
+            Debug.Log("Idle");
+        }
     }
 
     private bool isInvisible()
@@ -91,7 +97,7 @@ public class Player : MonoBehaviour
             }
             this.invisibleTime = this.defaultInvisibleTime;
         }
-        Debug.Log("Player hurt, remaing health: " + health);
+        //Debug.Log("Player hurt, remaing health: " + health);
         playerInfoManager.updateHealth(health);
     }
 
