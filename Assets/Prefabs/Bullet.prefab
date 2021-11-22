@@ -146,6 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 20
+  directionY: 0
 --- !u!82 &-7238443324955257241
 AudioSource:
   m_ObjectHideFlags: 0

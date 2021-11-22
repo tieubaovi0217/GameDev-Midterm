@@ -22,6 +22,8 @@ public class Player : MonoBehaviour
     private AudioSource audioSource;
     public PlayerInfoManager playerInfoManager;
 
+
+    public int level;
     // Start is called before the first frame update
     void Start()
     {
@@ -95,8 +97,27 @@ public class Player : MonoBehaviour
 
     private void Shoot()
     {
-        Instantiate(bullet, new Vector3(transform.position.x + 1f,
+        if(level == 0)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
                    transform.position.y, transform.position.z), Quaternion.identity);
+        }
+        else if(level == 1)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y - 0.25f, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y + 0.25f, transform.position.z), Quaternion.identity);
+        }
+        else if(level == 2)
+        {
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y - 0.4f, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y, transform.position.z), Quaternion.identity);
+            Instantiate(bullet, new Vector3(transform.position.x + 1f,
+                   transform.position.y + 0.4f, transform.position.z), Quaternion.identity);
+        }
     }
 
     void FixedUpdate()

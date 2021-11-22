@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 0e39121a335d3a6429c43019438a1efb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1218889066425108263
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_0
+  - first:
+      213: -2409405155413286930
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_1
+  - first:
+      213: 8518601290992642351
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_2
+  - first:
+      213: -2703786853672091642
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_3
+  - first:
+      213: 709879424514882249
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_4
+  - first:
+      213: 447652277730642060
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_5
+  - first:
+      213: 32334169999350432
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_6
+  - first:
+      213: -1002941155920916104
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_7
+  - first:
+      213: 626386603819744250
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_8
+  - first:
+      213: -8577705158374409767
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_9
+  - first:
+      213: 552849679859840087
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_10
+  - first:
+      213: 8076593685915382253
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_11
+  - first:
+      213: 7867079870718272131
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_12
+  - first:
+      213: 7567287107696155128
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_13
+  - first:
+      213: 155952009742704721
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_14
+  - first:
+      213: 3712432976555335518
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_15
+  - first:
+      213: 548062682012065327
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_16
+  - first:
+      213: 5552578942772197962
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_17
+  - first:
+      213: -5208996478444303811
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_18
+  - first:
+      213: 5987316035753669435
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_19
+  - first:
+      213: -8612510305319460979
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_20
+  - first:
+      213: 1258987136244497150
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_21
+  - first:
+      213: -1913603076025853649
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_22
+  - first:
+      213: -8675726884644130034
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_23
+  - first:
+      213: -5032824497085579608
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_24
+  - first:
+      213: 1759163418183849651
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_25
+  - first:
+      213: -5146521675713745200
+    second: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72740e0e52d5ae010800000000000000
+      internalID: 1218889066425108263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 64
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9897d6c2109ed0800000000000000
+      internalID: -2409405155413286930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29eccc9db6283670800000000000000
+      internalID: 8518601290992642351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 64
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600018e8e283a7ad0800000000000000
+      internalID: -2703786853672091642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7193539ff9d900800000000000000
+      internalID: 709879424514882249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c888705ff51663600800000000000000
+      internalID: 447652277730642060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa1bec91cfd27000800000000000000
+      internalID: 32334169999350432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 46
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d6be1556d412f0800000000000000
+      internalID: -1002941155920916104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 44
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3db42c4f51b800800000000000000
+      internalID: 626386603819744250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9be07ea9ed5f880800000000000000
+      internalID: -8577705158374409767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754fb3ecadd1ca700800000000000000
+      internalID: 552849679859840087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1362c6a23d51070800000000000000
+      internalID: 8076593685915382253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e9c9f57b7d2d60800000000000000
+      internalID: 7867079870718272131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f95f9ff787640960800000000000000
+      internalID: 7567287107696155128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e8bec68d0a2200800000000000000
+      internalID: 155952009742704721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd6047f16358330800000000000000
+      internalID: 3712432976555335518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1af30b1c1b9700800000000000000
+      internalID: 548062682012065327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 21
+        width: 47
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a304f2129be0d40800000000000000
+      internalID: 5552578942772197962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a01122d4de5b7b0800000000000000
+      internalID: -5208996478444303811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33f81d5638371350800000000000000
+      internalID: 5987316035753669435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 21
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fda0322873a7880800000000000000
+      internalID: -8612510305319460979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efab3a84122d87110800000000000000
+      internalID: 1258987136244497150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29526c14248175e0800000000000000
+      internalID: -1913603076025853649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03fa784d50a99780800000000000000
+      internalID: -8675726884644130034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7452f8c0d72ab0800000000000000
+      internalID: -5032824497085579608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6d5b2fecdc96810800000000000000
+      internalID: 1759163418183849651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser_Games_-_Bloody_Fun_Day_-_Gift-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0deeb3aadc1e398b0800000000000000
+      internalID: -5146521675713745200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

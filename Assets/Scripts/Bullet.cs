@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public int speed;
     private Animator anim;
-
+    public int speed;
+    public static int DAMAGE = 10;
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -21,13 +22,10 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {   
-        if (collision.tag == "Obstacle")
-        {
-            Destroy(this.gameObject);
-        }
-        else if(collision.tag == "Border")
+        if (collision.tag == "Obstacle" || collision.tag == "Border")
         {
             Destroy(this.gameObject);
         }
     }
+
 }
