@@ -31,7 +31,7 @@ public class PlayerInfoManager : MonoBehaviour
                 {
                     GameObject newShipHealth = Instantiate(shipHealthPrefab, inGameInfoCanvas.transform);
                     newShipHealth.transform.localPosition = new Vector3(defaultX + (float)(oldShipHealthCount + i) * gap, defaultY, 0);
-                    Debug.Log("New Ship - x: " + (defaultX + (oldShipHealthCount + i) * gap) + " - y: " + defaultY);
+                    //Debug.Log("New Ship - x: " + (defaultX + (oldShipHealthCount + i) * gap) + " - y: " + defaultY);
                     shipHealthList.Add(newShipHealth);
                 }
             }

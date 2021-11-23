@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Border
-  - Obstacle
   - Bullet
   - Coin
   - ScoreManager
   - PlayerItemManager
+  - Enemy
+  - SpawnPoint
+  - HealthBar
   layers:
   - Default
   - TransparentFX

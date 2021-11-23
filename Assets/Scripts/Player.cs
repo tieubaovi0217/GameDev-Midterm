@@ -67,16 +67,13 @@ public class Player : MonoBehaviour
     public void checkInvisible()
     {
         this.invisibleTime -= Time.deltaTime;
-        Debug.Log("invisibleTime: " + invisibleTime);
         if (isInvisible())
         {
             anim.Play("Blink");
-            Debug.Log("Blink");
         }
         else
         {
             anim.Play("Idle");
-            Debug.Log("Idle");
         }
     }
 

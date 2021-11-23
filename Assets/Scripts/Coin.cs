@@ -28,9 +28,8 @@ public class Coin : MonoBehaviour
         }
     }
 
-    public void GenerateCoin(Transform transform)
+    public void GenerateCoin(Vector3 position)
     {
-        Instantiate(this, new Vector3(transform.position.x,
-                   transform.position.y, transform.position.z), Quaternion.identity);
+        Instantiate(this, position, Quaternion.identity);
     }
 }

@@ -19,6 +19,8 @@ public class LevelManger : MonoBehaviour
     private float[] enemyHealthMuliplier = new float[] {1, 1.5f, 2 };
     private string[] backgroundResources = new string[] {"SKY" , "CITY", "SPACE"};
 
+    public GameObject gameOverPanel;
+
     void Start()
     {
         loadBackground();
@@ -36,6 +38,9 @@ public class LevelManger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (GameObject.FindGameObjectWithTag("Player") == null)
+        {
+            gameOverPanel.SetActive(true);
+        }
     }
 }
