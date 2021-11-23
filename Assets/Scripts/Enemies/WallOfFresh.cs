@@ -75,10 +75,13 @@ public class WallOfFresh : Enemy
     private void ShootFollow()
     {
         GameObject target = GameObject.FindGameObjectWithTag("Player");
-        Vector2 direction = new Vector2(target.transform.position.x - transform.position.x, target.transform.position.y - transform.position.y);
-        GameObject enemy = Instantiate(followBullet, transform.position, transform.rotation);
-        MovableEnemy script = enemy.GetComponent<MovableEnemy>();
-        script.SetDirection(direction);
+        if (target != null)
+        {
+            Vector2 direction = new Vector2(target.transform.position.x - transform.position.x, target.transform.position.y - transform.position.y);
+            GameObject enemy = Instantiate(followBullet, transform.position, transform.rotation);
+            MovableEnemy script = enemy.GetComponent<MovableEnemy>();
+            script.SetDirection(direction);
+        }
     }
 
     protected override void HandleDie()

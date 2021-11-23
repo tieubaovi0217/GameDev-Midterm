@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 public class MenuManager : MonoBehaviour
 {
@@ -10,6 +11,7 @@ public class MenuManager : MonoBehaviour
     public GameObject tutorialTab;
     public GameObject optionsTab;
     private GameObject thisTab;
+    public GameObject highScore;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,6 +19,7 @@ public class MenuManager : MonoBehaviour
         mainTab.SetActive(true);
         optionsTab.SetActive(false);
         tutorialTab.SetActive(false);
+        highScore.GetComponent<TextMeshProUGUI>().text = ((int)PlayerPrefs.GetInt("HighScore", 0)).ToString();
     }
 
     public void changeTab(string tabName)
